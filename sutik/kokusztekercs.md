@@ -1,4 +1,4 @@
-#Kókuszcsiga (sütve) \_@/”
+# Kókuszcsiga (sütve) \_@/”
 
 
 | Hozzávalók  |              |
