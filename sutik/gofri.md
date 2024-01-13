@@ -15,11 +15,14 @@ keves vanilia
 * liszt + sutopor + so
 
 nagyobb adag:
-20 dkg liszt
-kis csipet so
-5 dkg puha vaj
-2.5 dl tej
-1/2 csomag sutopor
-fel+ evokanal cukor
-keves vanilia
-1.5? tojas
+
+|  |  |
+| -- | -- |
+| 20 dkg|liszt |
+| kis csipet| so |
+| 5 dkg| puha vaj |
+| 2.5 dl| tej |
+| 1/2 csomag| sutopor |
+| fel+ evokanal| cukor |
+| keves| vanilia |
+| 1.5?| tojas |
