@@ -1,28 +1,32 @@
 # Gofri
 
-15 dkg liszt
-kis csipet so
-3 dkg puha vaj
-1.8 dl tej
-1/3 csomag sutopor
-fel evokanal cukor
-keves vanilia
-1 tojas
+|  |  |
+| -- | -- |
+| 20 dkg | liszt |
+| kis csipet | so |
+| 5 dkg | puha vaj |
+| 2.5 dl | tej |
+| 1/2 csomag | sutopor |
+| fel+ evokanal | cukor |
+| keves | vanilia |
+| 2 | tojas |
 
-* cukor + vaj
-* + tojas + vanilia
-* + tej
-* liszt + sutopor + so
+* Felverjük a tojásfehérjét egy (fél)csipet sóval
+* Kikeverjük a cukrot a tojássárgájával és a vajjal
+* Hozzáadjuk a lisztet, sütőport, vaníliát és tejet, és homogénre keverjük (robotgéppel)
+* Hozzákeverjük a felvert tojásfehérjét
+* Aranybarnára sütjük előmelegített gofrisütőben
 
-nagyobb adag:
+# Diókrém
 
 |  |  |
 | -- | -- |
-| 20 dkg|liszt |
-| kis csipet| so |
-| 5 dkg| puha vaj |
-| 2.5 dl| tej |
-| 1/2 csomag| sutopor |
-| fel+ evokanal| cukor |
-| keves| vanilia |
-| 1.5?| tojas |
+| 15 dkg | darált dió |
+| 1.2-1.5 dl | tej |
+| 5 dkg | cukor |
+
+* Felforraljuk a tejet
+* Elkeverjük benne a cukrot
+* Levesszük a tűzhelyről, hozzáadjuk a diót
+* Pár percig főzzük, amíg a dió felszívja a tejet, és krém állagú lesz
+* Adhatunk hozzá rumot vagy mazsolát
