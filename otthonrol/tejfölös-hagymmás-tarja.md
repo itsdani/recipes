@@ -13,16 +13,12 @@
 
 
 ## Elkészítés
-A tarját szeletekre vágjuk, kiklopfoljuk, sózzuk, borsozzuk, majd lisztben
+A tarját ujjnyi vastag szeletekre vágjuk, kicsit kiklopfoljuk, sózzuk, borsozzuk, lisztben
 megforgatjuk és forró olajban rövid ideig elősütjük, amíg fehér kérge lesz.
-A hússzeleteket egy edénybe állítjuk, közéjük vastag hagymaszeleteket és tejfölt
+A hússzeleteket egy edénybe állítjuk, megkenjük tejföllel, közéjük kb ujjnyi vastag hagymakarikákat
 teszünk. 200°C-on 1.5 órán át lefedve sütjük sütőben.
 
-
 **KÉSZ**
-tőben.
 
-**KÉSZ**
-<!--stackedit_data:
-eyJoaXN0b3J5IjpbLTczOTAwMTEyMl19
--->
+## Gombás-borsós verzió
+Hagyma és tejföl helyett vastagra vágott gombát (0.5-1 kg), fagyasztott borsót (~0.3 kg) és fokhagymát teszünk a hússzeletek közé (és RÁJA).
