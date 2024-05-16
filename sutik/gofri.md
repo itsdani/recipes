@@ -7,7 +7,7 @@
 | 5 dkg | puha vaj |
 | 2.5 dl | tej |
 | 1/2 csomag | sutopor |
-| fel+ evokanal | cukor |
+| 60 g | cukor |
 | keves | vanilia |
 | 2 | tojas |
 
