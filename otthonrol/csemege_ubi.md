@@ -1,12 +1,24 @@
-a lé az ubihoz 4 üvegre való:
-3x2,5 dl víz, 
-1x2,5 dl 10%-os (Chéf) ecet, 
-8 evőkanál kristálycukor, 
-4 teáskanál só (lehetőleg nem jódozott) 
+# Csemege uborka - Móni (anyukája) féle
+4 üveghez való adag
 
-A fűszerek: 2 babérlevél üvegenként, mustármag, koriander, fekete bors. + kömény + kapor!
-Ezeket az üvegekbe szórom, ha már beraktam az ubikat. 
-Ráöntöm az ecetes lét, lezárni. 
+#### Lé az ubihoz
+- 3x2,5 dl víz, 
+- 1x2,5 dl 10%-os (Chéf) ecet, 
+- 8 evőkanál kristálycukor, 
+- 4 teáskanál só (lehetőleg nem jódozott) 
 
-Fazékba tenni, hogy a csavart is lepje a (hideg) víz. Tűzhelyre tenni, majd ha 80 fokos még 15-18 percig melegíteni. Hagyni az üvegeket a vízzel együtt kihűlni.
+#### Fűszerek
+- 2 babérlevél üvegenként
+- mustármag
+- koriander
+- fekete bors.
+- kömény
+- kapor
+
+#### Elkészítés
+- A fűszereket az üvegekbe szórjuk, ha már beraktuk az ubikat. 
+- Ráöntjük az ecetes lét, lezárjuk. 
+- Fazékba tesszük, hogy a csavart is ellepje a (hideg) víz.
+- Melegítjük 80 C-ig, majd még 15-20 percig így tartjuk.
+- Hagyjuk az üvegeket a vízzel együtt kihűlni.
 
