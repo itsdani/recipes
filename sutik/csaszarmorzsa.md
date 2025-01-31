@@ -6,7 +6,7 @@
   - sargaja a habba keverve
   - ebbe mehet a dara
 - 10 dkg forro vaj a tepsibe
-- 150 fokon sutni, amig megszilardul
+- 170->150 fokon sutni, amig megszilardul (~30 perc)
 - villaval osszetorni
 - vizbeaztatott mazsola a vegen, porcukorba forgatni, belekeverni es sutni 10 percig
 - vanilia, citromheja
